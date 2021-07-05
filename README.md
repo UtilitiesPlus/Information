@@ -11,4 +11,4 @@ The current URL to access the API's root is: ```https://utilitiespl.us/api/v1/<e
 to access.
 ## Documentation and Endpoints
 
-#### To view all of the available endpoints, click (here)[https://docs.utilitiespl.us].
+#### To view all of the available endpoints, click [here](https://docs.utilitiespl.us).
