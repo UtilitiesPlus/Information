@@ -9,10 +9,6 @@ to create.
 
 The current URL to access the API's root is: ```https://utilitiespl.us/api/v1/<endpoint>```, replacing <endpoint> with the portion of the API you would like
 to access.
-## API Reference
+## Documentation and Endpoints
 
-#### Get a random topic to talk about.
-
-```http
-  GET /fun/topic
-```
+#### To view all of the available endpoints, click (here)[https://docs.utilitiespl.us].
